@@ -5,7 +5,7 @@
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=not%20finished&color=yellow&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=responsive&message=yes&color=GREEN&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=future%20modifications&message=yes&color=orange&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=future%20modifications&message=yes&color=GREEN&style=for-the-badge"/>
 </p>
 
 
