@@ -1,0 +1,145 @@
+.bg {
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #d3d3d3 50%, #035951 50%);
+    bottom:0;
+    left:-50%;
+    opacity:.5;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+    animation-duration:9s;
+} 
+.bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:7s;
+} 
+.bg3 {
+    animation-duration:10s;
+}
+@keyframes slide {
+    0% {
+    transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
+}
+
+.topo {
+    background-color: #035951;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 1rem 2rem;
+}
+
+.titulo {
+    color: white;
+    font-size: 1.8rem;
+    text-align: center;
+    flex: 1;
+}
+
+#item_topo {
+    flex: 1;
+}
+
+.body {
+    background-image: url(../dbm.png);
+    background-repeat: no-repeat;
+    background-position-y: 3rem;
+    background-size: 100%;
+    margin:0;
+    font-size: 0.90rem;
+    font-family: arial;
+    font-weight: 800;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 3rem 3em;
+}
+
+.ul {
+    justify-content: center;
+    padding: 0 1em;
+}
+    
+p {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 0.20rem;
+    margin-left: 1rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.lista_ {
+    padding: 1em 3rem;        
+}
+
+.item_lista_sistemas, .item_lista_treinamento {
+    display: block;
+    padding-bottom: 1rem;
+}
+    
+button {
+    width: 100%;
+    font-size: auto;
+    background: #20635e;
+    border: 0.1rem solid #ffffff;
+    border-radius: 0.7rem;
+    padding: 0.85em 0.75em;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+button:hover {
+    color: #000000;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+button::after {
+    content: "";
+    background-color: white;
+    opacity: 0.4;
+    position: absolute;
+    z-index: -1;
+    padding: 0.85em 0.75em;
+    display: block;
+}
+button[class^="slide"]::after {
+    transition: all 0.35s;
+}
+button[class^="slide"]:hover::after {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transition: all 0.35s;
+}
+button.slide_from_right::after {
+    top: 0;
+    bottom: 0;
+    left: 100%;
+    right: -100%;
+}
+
+footer {
+    margin-top: auto;
+    padding-bottom: 1rem;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    opacity: 0.2;
+
+}
