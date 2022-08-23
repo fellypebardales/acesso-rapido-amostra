@@ -8,14 +8,14 @@
     right:-50%;
     top:0;
     z-index:-1;
-    animation-duration:6s;
+    animation-duration:13s;
 } 
 .bg2 {
     animation-direction:alternate-reverse;
-    animation-duration:4s;
+    animation-duration:11s;
 } 
 .bg3 {
-    animation-duration:7s;
+    animation-duration:14s;
 }
 @keyframes slide {
     0% {
