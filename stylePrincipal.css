@@ -94,11 +94,11 @@ button {
     font-size: auto;
     background: #20635e;
     border: 0.1rem solid #ffffff;
-    border-radius: 0.7rem;
     padding: 0.85em 0.75em;
     position: relative;
     z-index: 1;
     overflow: hidden;
+    box-shadow: 1px 1px 5px;
 }
 button:hover {
     color: #000000;
@@ -118,14 +118,14 @@ button::after {
     display: block;
 }
 button[class^="slide"]::after {
-    transition: all 0.10s;
+    transition: all 0.30s;
 }
 button[class^="slide"]:hover::after {
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-    transition: all 0.10s;
+    transition: all 0.30s;
 }
 button.slide_from_right::after {
     top: 0;
