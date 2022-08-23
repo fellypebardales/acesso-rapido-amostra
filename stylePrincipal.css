@@ -102,10 +102,16 @@ button {
 button:hover {
     color: #000000;
     background-color: transparent;
+    border: 0.1rem solid #20635e;
 }
 a{
     text-decoration: none;
     color: white;
+    font-weight: 600;
+}
+a:hover {
+    text-decoration: none;
+    color: #20635e;
     font-weight: 600;
 }
 button::after {
