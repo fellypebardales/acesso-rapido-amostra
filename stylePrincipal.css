@@ -92,13 +92,12 @@ p {
 button {
     width: 100%;
     font-size: auto;
-    background: #20635e;
+    background-color: transparent;
     border: 0.1rem solid #ffffff;
     padding: 0.85em 0.75em;
     position: relative;
     z-index: 1;
     overflow: hidden;
-    box-shadow: 1px 1px 5px;
 }
 button:hover {
     color: #000000;
