@@ -102,7 +102,7 @@ button {
 }
 button:hover {
     color: #000000;
-    width: 2rem;
+    width: 110%;
 }
 a{
     text-decoration: none;
