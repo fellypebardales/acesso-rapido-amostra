@@ -118,14 +118,14 @@ button::after {
     display: block;
 }
 button[class^="slide"]::after {
-    transition: all 0.35s;
+    transition: all 0.10s;
 }
 button[class^="slide"]:hover::after {
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-    transition: all 0.35s;
+    transition: all 0.10s;
 }
 button.slide_from_right::after {
     top: 0;
