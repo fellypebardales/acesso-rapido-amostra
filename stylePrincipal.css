@@ -92,7 +92,7 @@ p {
 button {
     width: 100%;
     font-size: auto;
-    background-color: transparent;
+    background-color: #20635e;
     border: 0.1rem solid #ffffff;
     padding: 0.85em 0.75em;
     position: relative;
@@ -101,6 +101,7 @@ button {
 }
 button:hover {
     color: #000000;
+    background-color: transparent;
 }
 a{
     text-decoration: none;
