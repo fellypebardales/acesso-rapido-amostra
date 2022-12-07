@@ -1,57 +1,73 @@
-![acessorapido](https://user-images.githubusercontent.com/86852698/184986804-96fd82c5-b799-4bfb-a672-9d8a2e5b0102.jpg)
+<!-- Please update value in the {}  -->
+
+<h1 align="center">ACESSO RÁPIDO</h1>
+
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+
+Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+
+- Where can I see your demo?
+- What was your experience?
+- What have you learned/improved?
+- Your wisdom? :)
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
+## Acknowledgements
 
-<p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=not%20finished&color=yellow&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=responsive&message=yes&color=GREEN&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=future%20modifications&message=yes&color=GREEN&style=for-the-badge"/>
-</p>
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
+- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [Node.js](https://nodejs.org/)
+- [Marked - a markdown parser](https://github.com/chjj/marked)
 
-## 📎 Índice 
-🔹 [Descrição do Projeto](#descrição-do-projeto)<br>
-🔹 [Funcionalidades do projeto](#funcionalidades-do-projeto)<br>
-🔹 [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)<br>
-🔹 [Status do projeto](#status-do-projeto)<br>
-🔹 [Acessando ao Projeto](#acessando-ao-projeto)<br>
-🔹 [Colaboradores](#colaboradores)<br>
+## Contact
 
-<br>
-
-## Descrição do projeto 
-<p align="justify">
-  O projeto foi realizado para a equipe de uma empresa para melhor auxílio no contidiano de seus operadores, onde foi criado botões para acessos mais rápidos aos programas utilziados pela empresa.
-  <br>
-O Acesso Rápido ajuda nas tarefas realizadas pela equipe de operadores da empresa.
-</p>
-
-<br>
-
-##  Funcionalidades do projeto
-- ``Acessar as informações de maneira mais fácil e rápida.``
-- ``Ter tudo o que precisa para trabalhar disponibilizado na página por meio de botões que direcionam.``
-
-<br>
-
-## Técnicas e tecnologias utilizadas
-- ``HTML5``
-- ``CSS3``
-- ``JavaScript``
-
-<br>
-
-## Status do projeto
-| ✔️ Concluído
-
-<br>
-
-## Acessando ao projeto
-Você pode acessar a página do projeto [aqui](https://acesso-rapido-amostra.vercel.app/)!
-
-<br>
-
-## Colaboradores
-![fotoreadme](https://user-images.githubusercontent.com/86852698/182039502-6732fd18-962f-4ed8-8a9f-e5913ee1e0e3.jpg)
-
-<br>
+- Portfólio [PORT<>MY](https://portmy.vercel.app/)
+- GitHub [@fellypebardales](https://github.com/fellypebardales)
